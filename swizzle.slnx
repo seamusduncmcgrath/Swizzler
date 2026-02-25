@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="swizzle/swizzle.vcxproj" Id="217b423e-82f3-48c8-8936-394f34b33271" />
+</Solution>
