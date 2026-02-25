@@ -62,7 +62,7 @@ swizzle input.png output.png scramble bit_crush 32
 ### Batch Processing (Windows)
 Don't want to type commands all day? Use the included `generate_all.bat`!
 
-* Drag and drop any valid `input.png` onto the `generate_all.bat` file.
+* Drag and drop any valid `.png` onto the `generate_all.bat` file.
 * It will automatically create a `swizzle_results` folder.
 * It generates 96 unique variations combining every size, swizzle, and color mode in seconds.
 
