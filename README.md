@@ -1,6 +1,6 @@
 # GPU Texture Swizzler
 
-A C++17 command-line tool that intentionally "swizzles" normal images to mimic how console GPU textures (like those on the PS4) look in raw memory dumps. 
+A C++ command-line tool that intentionally "swizzles" normal images to mimic how console GPU textures (like those on the PS4) look in raw memory dumps. 
 
 Unlike standard noise or randomized glitch art, this tool physically rearranges 4x4 pixel blocks into macrotiled Z-order (Morton) curves and simulates hardware-level texture format mismatches. The result is a highly structured, authentic digital mosaic aesthetic that preserves large-scale image recognition while creating chaotic local artifacts.
 
